@@ -19,7 +19,7 @@ Thank you for your understanding and support! 😊
 
 ## How to Use
 
-Just **[download]([URL_A_LA_SECCION_DE_RELEASES_EN_GITHUB])** and run **NikkeProfilesSwitch.exe** and you can start creating profiles.
+Just **[download]([(https://github.com/RoberthMZ/NikkeProfilesSwitch/releases)])** and run **NikkeProfilesSwitch.exe** and you can start creating profiles.
 
 # --*--  ---  --*--<- Español-->-----  +----- - - - -
 
@@ -37,7 +37,7 @@ Si esto llegara a suceder, simplemente elimina el perfil afectado y vuelve a cre
 
 ## ¿Cómo Usar?
 
-Simplemente **[descarga]([URL_A_LA_SECCION_DE_RELEASES_EN_GITHUB])** y ejecuta el **NikkeProfilesSwitch.exe** y ya puedes empezar a crear perfiles.
+Simplemente **[descarga]([(https://github.com/RoberthMZ/NikkeProfilesSwitch/releases)])** y ejecuta el **NikkeProfilesSwitch.exe** y ya puedes empezar a crear perfiles.
 
 
 
