@@ -2,6 +2,7 @@
     <img src="resources/icon.png" alt="Icon" width="300" height="300" />
     <h1>NikkeProfilesSwitch</h1>
 </div>
+
 # ------------------English---------------- - ---
 
 ### Profile Manager for *Goddess of Victory: Nikke*
