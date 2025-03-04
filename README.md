@@ -37,7 +37,7 @@ Si esto llegara a suceder, simplemente elimina el perfil afectado y vuelve a cre
 
 ## ¿Cómo Usar?
 
-Simplemente **[descarga](github.com/RoberthMZ/NikkeProfilesSwitch/releases)** y ejecuta el **NikkeProfilesSwitch.exe** y ya puedes empezar a crear perfiles.
+Simplemente **[descarga](https://github.com/RoberthMZ/NikkeProfilesSwitch/releases)** y ejecuta el **NikkeProfilesSwitch.exe** y ya puedes empezar a crear perfiles.
 
 
 
