@@ -19,7 +19,7 @@ Thank you for your understanding and support! 😊
 
 ## How to Use
 
-Just **[download](github.com/RoberthMZ/NikkeProfilesSwitch/releases)** and run **NikkeProfilesSwitch.exe** and you can start creating profiles.
+Just **[download](https://github.com/RoberthMZ/NikkeProfilesSwitch/releases)**  and run **NikkeProfilesSwitch.exe** and you can start creating profiles.
 
 # --*--  ---  --*--<- Español-->-----  +----- - - - -
 
