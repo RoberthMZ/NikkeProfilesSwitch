@@ -3,7 +3,7 @@
     <h1>NikkeProfilesSwitch</h1>
 </div>
 
-# --*--  ---  --*--<- English-->-----*  +----- *- - - -
+# --*--  ---  --*--<- English-->-----  +----- - - - -
 
 ### Profile Manager for *Goddess of Victory: Nikke*
 
@@ -21,7 +21,7 @@ Thank you for your understanding and support! 😊
 
 Just **[download]([URL_A_LA_SECCION_DE_RELEASES_EN_GITHUB])** and run **NikkeProfilesSwitch.exe** and you can start creating profiles.
 
-# --*--  ---  --*--<- Español-->-----*  +----- *- - - -
+# --*--  ---  --*--<- Español-->-----  +----- - - - -
 
 ### Un gestor de perfiles para cambiar rápidamente entre tus cuentas en *Goddess of Victory: Nikke*.
 
